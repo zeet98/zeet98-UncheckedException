@@ -4,10 +4,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class CauseUncheckedExceptionTest {
-    static CauseUncheckedException cue;
+    static Lab cue;
     @BeforeClass
     public static void setUp(){
-        cue = new CauseUncheckedException();
+        cue = new Lab();
     }
 
     /**

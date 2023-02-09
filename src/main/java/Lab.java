@@ -1,5 +1,5 @@
 
-public class CauseUncheckedException {
+public class Lab {
     /**
      * This method must throw an unchecked exception.
      * unchecked means that you do not need to wrap the method in a try/catch or a throws declaration.
