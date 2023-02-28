@@ -1,3 +1,4 @@
+import java.io.UncheckedIOException;
 
 public class Lab {
     /**
@@ -14,6 +15,6 @@ public class Lab {
      * event happens, like running out of computer memory.
      */
     public void throwUncheckedException(){
-
+       int z = 5/0;
     }
 }
